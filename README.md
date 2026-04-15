@@ -23,7 +23,7 @@
 <a href="https://github.com/Angelithoxz"><img src="https://github-stats-alpha.vercel.app/api?username=Angelithoxz&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
 </a>
   
-[![](https://moe-counter.glitch.me/get/@:iamDestroy?theme=aso)](https://moe-counter.glitch.me)
+[![](https://moe-counter.glitch.me/get/@:Angelithoxz?theme=aso)](https://moe-counter.glitch.me)
 [![committers.top badge](https://user-badge.committers.top/peru/Angelithoxz.svg)](https://committers.top/peru#Angelithoxz)
 
 </div>
@@ -33,7 +33,7 @@
 </p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<a href="https://github.com/Angelithoxz">
+<a href="https://github.com/Angelithoxz/Mahiru-Shiina">
 <img src="https://gh-card.dev/repos/Angelithoxz /Mahiru-Shiina.svg?fullname=&theme=dark" width="400" />
 </a>
 
