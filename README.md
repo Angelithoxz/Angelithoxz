@@ -34,7 +34,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <a href="https://github.com/Angelithoxz/Mahiru-Shiina">
-<img src="https://gh-card.dev/repos/Angelithoxz /Mahiru-Shiina.svg?fullname=&theme=dark" width="400" />
+<img src="https://gh-card.dev/repos/Angelithoxz/Mahiru-Shiina.svg?fullname=&theme=dark" width="400" />
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
